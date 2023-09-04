@@ -38,8 +38,8 @@ div #botao{
     margin: 20px;
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(85, 81, 81);
-    background-color: rgb(244, 210, 179);
+    color: rgb(255, 255, 255);
+    background-color: #5DA8A3;
 }
 div #botao:hover{
     background-color: pink;

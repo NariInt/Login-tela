@@ -1,0 +1,47 @@
+body{
+    background-image: url('Imagem/backgroundImg.jpg');
+    background-repeat: no-repeat;
+    
+}
+div{
+    background: #d4090910;
+    backdrop-filter: blur(10px);
+    border: 2px solid #ffffff30;
+    padding: 40px 60px ;
+    margin: 100px;
+    width: 250px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 20px;
+  
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(252, 108, 132);
+}
+div input{
+    
+    padding: 15px;
+    line-height: normal;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 8px;
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+    font-size: 18px;
+    text-align: center;
+
+}
+div #botao{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(85, 81, 81);
+    background-color: rgb(244, 210, 179);
+}
+div #botao:hover{
+    background-color: pink;
+    color: aliceblue;
+}
